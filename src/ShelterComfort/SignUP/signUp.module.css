@@ -1,0 +1,102 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+/* .mainpage{ */
+    /* background-image: url('../image/Dance-to-Lose-weight-1.jpg');
+    background-repeat: no-repeat; */
+    /* background-image: url('../pictures/Loginout.png'); */
+    /* height: 100vh; */
+    /* background-size: 100% 100%; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* filter: blur(8px); */
+  /* -webkit-filter: blur(8px); */
+
+    
+/* } */
+
+ 
+.form3{
+    background-color:#C8BDAF;
+    display: flex;
+    height: 450px;
+    width: 300px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    /* box-shadow: rgb(20, 11, 7, 20) -1px 1px 1px 5px; */
+    /* border: 3px solid #f1f1f1; */
+    font-weight: bold;
+    /* opacity: 0.9; */
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.top{
+    display: flex;
+    flex: 0.2;
+    flex-direction: column;
+}
+
+.semitop{
+    display: flex;
+    flex: 0.1;
+    flex-direction: column;
+    /* background-image: url('../image/Incredible-Zigi.jpg'); */
+    /* background-color: red; */
+}
+.middle{
+    display: flex;
+    flex: 0.5;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* padding: 100px; */
+}
+
+.down{
+    display: flex;
+    flex: 0.1;
+    pad: 50px;
+}
+.footer{
+    display: flex;
+    flex: 0.1;
+}
+
+.imagetag{
+    width: 130px; 
+    height: 130px;
+    border-radius: 30px;
+    
+
+}
+::placeholder{
+    text-align: center;
+
+}
+.ahaa{
+    cursor: pointer;
+}
+
+.company{
+    font-style: oblique;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.slogan{
+    font-style: oblique;
+    margin-top: 10px;
+}
+
+.letsgo2{
+    height: 35px;
+    width: 90px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
